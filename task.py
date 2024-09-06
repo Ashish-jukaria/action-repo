@@ -1,4 +1,4 @@
 print("Hello, GitHub Webhookbs")
 print('new_commit')
 
-print('Hi test success from Test 1 branch to mas1sfs2')
+print('Hi test success from Test 1 branch to mas1sf2')
